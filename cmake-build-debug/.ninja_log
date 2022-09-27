@@ -1,0 +1,8 @@
+# ninja log v5
+9	522	6853080447464386	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p2/myfirst.cpp.obj	2ac2d301a3ed67a
+0	537	6853080447644684	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p2/carrot.cpp.obj	f353983d3575e4af
+27	543	6853080447744716	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p3/bondini.cpp.obj	6ac711eb1c396270
+48	545	6853080447784690	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p3/typecast.cpp.obj	ac8568ef6cd7f3a8
+38	559	6853080447954668	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p3/floatnum.cpp.obj	22014bd214224d16
+18	560	6853080447944679	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p2/sqrt.cpp.obj	4a8d43c0ca1d2b34
+525	877	6853080451147182	CMakeFiles/rush_c_cpp.dir/cpp-primer-plus/p3/fltadd.cpp.obj	8c18b0f181b14720
